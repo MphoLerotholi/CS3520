@@ -1,3 +1,11 @@
+/****************************************************
+* Author: MPHO LEROTHOLI						    *
+* Student Number: 202000705						    *
+* email: mpholerotholi8@gamil.com				    *			
+*									                *
+* 			Reversable Prime Squares 				*
+****************************************************/
+
 #include <stdio.h>
 
 // 1 is for true value, 0 is for false
@@ -109,3 +117,5 @@ int squareRoot (int num)
 	}
 	return root;
 }
+
+/************************** the end :).******************/ 
